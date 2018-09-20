@@ -1,4 +1,4 @@
-# pavics-ogc-training
+# PAVICS-OGC Training
 
 ## Background
 
